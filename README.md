@@ -1,4 +1,4 @@
-![logo](https://github.com/theanshumansinha/AnshumanSinha/blob/main/Banner.png)
+![logo](https://github.com/theanshumansinha/theanshumansinha/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Anshuman Sinha</h1>
 <h3 align="center">Full Stack Developer specializing in MERN | Java Enthusiast</h3>
