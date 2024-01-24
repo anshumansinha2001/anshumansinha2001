@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anshumansinha2001@gmail.com**
 
-- ⚡ Fun fact **I start watch anime whenever I get stuck over I watch anime whenever i get stuck over something in order to refreshing my mind.**
+- ⚡ Fun fact **I start watch anime whenever I get stuck over something in order to refreshing my mind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
