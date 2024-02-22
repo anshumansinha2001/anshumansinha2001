@@ -5,7 +5,7 @@
 
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumansinha2001&label=Profile%20views&color=0e75b6&style=flat" alt="anshumansinha2001" /> </p>
+[![](https://visitcount.itsvg.in/api?id=anshumansinha2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently working on MERN Stack Development<br><br>My Portfolio https://anshumansinha.vercel.app<br><br>💬 Ask me about #java, #react, #nodejs, #express, and #mongodb<br><br>📫 How to reach me anshumansinha2001@gmail.com<br><br>⚡ Fun fact I start watch anime whenever I get stuck over something in order to refreshing my mind.
@@ -25,7 +25,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshumansinha2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshumansinha) 
